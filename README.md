@@ -8,6 +8,6 @@ No fine-tuning needed - it literally just remembers past attempts in its prompt:
 
 Like teaching a kid a game without explaining rules - they figure it out by playing and remembering what worked.
 
-Free to run on Google Colab: [link]
+Run on Google [Colab:](https://github.com/unverciftci/RL_LLM/blob/main/RL_LLM.ipynb)
 
-#ReinforcementLearning #LLM #AI
+
